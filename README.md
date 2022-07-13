@@ -1,5 +1,5 @@
-﻿webshell
-========
+# webshell | [English](https://github.com/tennc/webshell/blob/master/README_EN.md)
+
 这是一个webshell收集项目
 
 送人玫瑰，手有余香，如果各位下载了本项目，也请您能提交shell
@@ -18,10 +18,71 @@
 
 本项目提供的工具，禁止从事非法活动，此项目，仅供测试，所造成的一切后果，与本人无关。
 
-Author：tennc
+> ### 在扩展一个项目 
+> 1. [webshell-venom](https://github.com/yzddmr6/webshell-venom)
+> 2. 免杀webshell无限生成工具
+>>  免杀webshell无限生成工具(免杀一句话生成|免杀D盾|免杀安全狗护卫神河马查杀等一切waf)
+>>  
+>>  Author : yzddmr6
+>>  
+>>  https://github.com/pureqh/webshell
+>>  
+>>  请自行鉴别后门
+
+> ### other webshell project (update 2021-04-03)
+> 1. [xl7dev/WebShell](https://github.com/xl7dev/WebShell)
+> 2. [JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells)
+> 3. [BlackArch/webshells](https://github.com/BlackArch/webshells)
+> 4. [LandGrey/webshell-detect-bypass](https://github.com/LandGrey/webshell-detect-bypass)
+> 5. [JoyChou93/webshell](https://github.com/JoyChou93/webshell)
+> 6. [bartblaze/PHP-backdoors](https://github.com/bartblaze/PHP-backdoors)
+> 7. [WangYihang/Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper)
+> 8. [threedr3am/JSP-Webshells](https://github.com/threedr3am/JSP-Webshells)
+> 9. [DeEpinGh0st/PHP-bypass-collection](https://github.com/DeEpinGh0st/PHP-bypass-collection)
+> 10. [lcatro/PHP-WebShell-Bypass-WAF](https://github.com/lcatro/PHP-WebShell-Bypass-WAF)
+> 11. [ysrc/webshell-sample](https://github.com/ysrc/webshell-sample)
+> 12. [tanjiti/webshellSample](https://github.com/tanjiti/webshellSample)
+> 13. [webshellpub/awsome-webshell](https://github.com/webshellpub/awsome-webshell)
+> 14. [tdifg/WebShell](https://github.com/tdifg/WebShell)
+> 15. [malwares/WebShell](https://github.com/malwares/WebShell)
+> 16. [lhlsec/webshell](https://github.com/lhlsec/webshell)
+> 17. [oneoneplus/webshell](https://github.com/oneoneplus/webshell)
+> 18. [vnhacker1337/Webshell](https://github.com/vnhacker1337/Webshell)
+> 19. [backlion/webshell](https://github.com/backlion/webshell)
+> 20. [twepl/wso](https://github.com/twepl/wso) wso for php8
+
+> ### 顺便在推一波网站管理工具
+> 1. 中国菜刀
+> 2. Cknife
+> 3. [Altman](https://github.com/keepwn/Altman)
+> 4. xise
+> 5. [Weevely](https://github.com/epinna/weevely3)
+> 6. [quasibot](https://github.com/Smaash/quasibot)
+> 7. [Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper)
+> 8. [蚁剑 antSword](https://github.com/AntSwordProject/antSword)
+> 9. [冰蝎 Behinder](https://github.com/rebeyond/Behinder)
+> 10. [webacoo](https://github.com/anestisb/WeBaCoo)
+> 11. [哥斯拉 Godzilla](https://github.com/BeichenDream/Godzilla)
+> 12. [PhpSploit](https://github.com/nil0x42/phpsploit)
+> 13. 以上排名不分先后
+
+
+
+Author ：tennc
 
 http://tennc.github.io/webshell
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
-<p>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh"><img alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh">知识共享署名-非商业性使用-相同方式共享 3.0 未本地化版本许可协议</a>进行许可。
+license : MIT
+
+## Download link
+Check github releases. Latest:
+
+[https://github.com/tennc/webshell/releases](https://github.com/tennc/webshell/releases)
+
+## [Thank you to JetBrains for providing an OSS development license for their products](https://www.jetbrains.com/?from=webshell)
+
+## 
+
+[![Stargazers over time](https://starchart.cc/tennc/webshell.svg)](https://starchart.cc/tennc/webshell)
+
+
